@@ -1,0 +1,6 @@
+{
+  "name": "TICHSTICH - Minimalist Apparel, 3D Studio & Virtual Try-On",
+  "description": "TICHSTICH minimalist luxury apparel and accessories store featuring 3D Three.js product viewer, camera-based AI virtual try-on, 2pc/3pc womenswear, and order tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
